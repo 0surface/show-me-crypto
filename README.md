@@ -6,7 +6,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Live Demo
 
-Pending...
+<a href="https://showmecrypto.azurewebsites.net/">[` Live Demo here`]()</a> - Deployed on Microsoft Azure as a Web App
+
+It has been deployed to Azure Web App as a Docker Container.
 
 See the docker Image <a href="https://hub.docker.com/r/0xport/showmecrypto">[` showmecrypto:latest`]()<a/>
 
