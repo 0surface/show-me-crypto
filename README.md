@@ -1,5 +1,6 @@
-##Inspiration
-This was inspired by this<a href="https://www.youtube.com/watch?v=klFeYge2G0I">tutorial</a> and the CoinGecko <a href="https://www.coingecko.com/en/api"> API </a> installed from <a href="https://www.npmjs.com/package/coingecko-api">npm</a>
+## Inspiration
+
+This was inspired by this YouTube <a href="https://www.youtube.com/watch?v=klFeYge2G0I">tutorial</a> and the CoinGecko <a href="https://www.coingecko.com/en/api"> API </a> installed from <a href="https://www.npmjs.com/package/coingecko-api">npm</a>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
