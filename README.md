@@ -4,6 +4,14 @@ This was inspired by this YouTube <a href="https://www.youtube.com/watch?v=klFeY
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Live Demo
+
+<a href="https://showmecrypto.azurewebsites.net/">[` Live Demo here`]()</a> - Deployed on Azure as a Web App
+
+It has been deployed to Azure Web App as a Docker Container.
+
+See the docker Image <a href="https://hub.docker.com/r/0xport/showmecrypto">[` showmecrypto:latest`]()<a/>
+
 ## Getting Started
 
 First, run the development server:
